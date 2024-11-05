@@ -1,0 +1,13 @@
+Regresie Logistică:
+    Acuratețe: 0.7118
+    Precizie: 0.7418
+    Recall: 0.8817
+    F1 Score: 0.8057
+
+    KNN:
+Acuratețe: 0.6952
+Precizie: 0.7251
+Recall: 0.8862
+F1 Score: 0.7976
+
+In concluzie, Regresia Logistica este mai eficienta in general, avand o acuratete si precizie mai buna.
